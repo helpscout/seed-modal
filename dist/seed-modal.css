@@ -142,10 +142,10 @@
       max-width: 600px; }
     .modal-dialog--lg\@lg {
       max-width: 900px; } }
-  modal.fade .modal-dialog {
+  .modal.fade .modal-dialog {
     transform: translate(0, -25%);
     transition: transform 0.3s ease-out; }
-  modal.in .modal-dialog {
+  .modal.in .modal-dialog {
     transform: translate(0, 0); }
 
 .modal-scrollbar-measure {
