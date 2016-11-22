@@ -2,6 +2,8 @@
 
 Modal component pack for [Seed](https://github.com/helpscout/seed)!
 
+JS is powered by [Bootstrap.js](http://getbootstrap.com/javascript/)
+
 ## Install
 ```
 npm install seed-modal --save
