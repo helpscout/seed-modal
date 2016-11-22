@@ -40,5 +40,26 @@ Once that is setup, simply `@import` *seed-modal* as needed in your `.scss` file
 The following variables can be found in `_config.scss`
 
 ```scss
-seed-modal config options
+// Namespaces
+$seed-modal-namespace: modal !default;
+$seed-modal-backdrop-namespace: modal-backdrop !default;
+$seed-modal-content-namespace: modal-content !default;
+$seed-modal-dialog-namespace: modal-dialog !default;
+$seed-modal-scrollbar-measure-namespace: modal-scrollbar-measure !default;
+// Config: Modal
+$seed-modal-z-index: 1050 !default;
+// Config: Modal backdrop
+$seed-modal-backdrop-background-color: #000 !default;
+$seed-modal-backdrop-opacity-in: 0.5;
+$seed-modal-backdrop-z-index: 1040;
+// Config: Modal content
+$seed-modal-content-box-shadow: 0 3px 9px rgba(black, 0.4) !default;
+// Config: Modal dialog
+$seed-modal-dialog-margin: 10px !default;
+$seed-modal-dialog-margin-md: 30px auto !default;
+$seed-modal-dialog-sizes: (
+  sm: 300px,
+  md: 600px,
+  lg: 900px,
+) !default;
 ```
