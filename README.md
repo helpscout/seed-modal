@@ -1,6 +1,6 @@
 # seed-modal [![npm version](https://badge.fury.io/js/seed-modal.svg)](https://badge.fury.io/js/seed-modal)
 
-modal component pack for [Seed](https://github.com/helpscout/seed)!
+Modal component pack for [Seed](https://github.com/helpscout/seed)!
 
 ## Install
 ```
