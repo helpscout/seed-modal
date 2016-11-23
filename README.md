@@ -9,6 +9,10 @@ JS is powered by [Bootstrap.js](http://getbootstrap.com/javascript/)
 npm install seed-modal --save
 ```
 
+## Documentation
+
+Check out our styleguide for **[documentation of this pack](http://style.helpscout.com/seed/packs/seed-modal/)**.
+
 
 ## Basic Usage
 
